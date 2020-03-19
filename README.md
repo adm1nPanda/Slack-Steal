@@ -1,1 +1,1 @@
-"# Slack-Steal" 
+# Slack-Steal
