@@ -1,0 +1,5 @@
+C:\Users\AdminPanda\source\repos\Slack_Steal\Slack_Steal\bin\Debug\Slack_Steal.exe
+C:\Users\AdminPanda\source\repos\Slack_Steal\Slack_Steal\bin\Debug\Slack_Steal.pdb
+C:\Users\AdminPanda\source\repos\Slack_Steal\Slack_Steal\obj\Debug\Slack_Steal.csprojAssemblyReference.cache
+C:\Users\AdminPanda\source\repos\Slack_Steal\Slack_Steal\obj\Debug\Slack_Steal.exe
+C:\Users\AdminPanda\source\repos\Slack_Steal\Slack_Steal\obj\Debug\Slack_Steal.pdb
